@@ -192,6 +192,7 @@
    * [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
    * [Multiple Forces](https://editor.p5js.org/jinsung/sketches/KM9Ksfhn1)
    * [Friction](https://editor.p5js.org/jinsung/sketches/9-jH3bINn)
+   * [Vector in LLM](https://www.youtube.com/watch?v=wjZofJX0v4M&t=747s)
  
 ### Week 12 -- Pixels / Webcam
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
