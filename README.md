@@ -71,18 +71,20 @@
  * Comment
  * console.log() / print()
  * Variables
-    * const vs let vs var
     * types of variables
-    * [Reusable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
+    * const vs let vs var
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
     * if / else / else if
+    * Boolean operators
+    * Boolean variable
+    * Make a button
  * [Random function](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
-
-### Week 4 -- Events / Loop
- * [Kyle McDonald](https://kylemcdonald.net/)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
  * [Lerp function](https://editor.p5js.org/jinsung/sketches/5FRaaBZFY)
  * [Easing with lerp](https://editor.p5js.org/jinsung/sketches/B5o4bK7_t)
+
+### Week 4 -- Events / Loop
+ * [Kyle McDonald](https://kylemcdonald.net/)
  * Loop
    * Initialization (e.g. `let i = 0;`)
    * Condition (e.g. `i < 100`)
