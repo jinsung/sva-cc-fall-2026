@@ -94,6 +94,7 @@
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
+ * [Hand Gesture Experiment](https://editor.p5js.org/jinsung/sketches/XFJ-CRgjJ)
 
 ### Week 5 -- Bezier / Noise / Nested Loop
  * https://experiments.withgoogle.com/
