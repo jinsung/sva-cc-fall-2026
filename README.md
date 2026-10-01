@@ -92,8 +92,9 @@
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
- * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
- * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
+ * [Trigonometry gif](https://www.businessinsider.com/7-gifs-trigonometry-sine-cosine-2013-5)
+ * [Trigonometry 1](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
+ * [Trigonometry 2](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
  * [Hand Gesture Experiment](https://editor.p5js.org/jinsung/sketches/XFJ-CRgjJ)
 
 ### Week 5 -- Bezier / Noise / Nested Loop
