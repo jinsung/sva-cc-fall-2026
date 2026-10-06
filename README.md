@@ -96,7 +96,7 @@
  * [Trigonometry 1](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
  * [Trigonometry 2](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
  * [Hand Gesture Experiment](https://editor.p5js.org/jinsung/sketches/XFJ-CRgjJ)
- * Homework - Explore the expressive power of `for` loop!
+ * Homework - Explore the expressive power of the `for` loop!
 
 ### Week 5 -- Bezier / Noise / Nested Loop
  * https://experiments.withgoogle.com/
