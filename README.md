@@ -132,7 +132,7 @@
     * Function basic
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * Parameters
-    * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
+    * [Reusability](https://editor.p5js.org/jinsung/sketches/ATItJ2Q8p)
     * Return
 
 ### Week 7 -- Data Viz
