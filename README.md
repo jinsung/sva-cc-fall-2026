@@ -128,7 +128,6 @@
     * Translate / Rotate / Scale
     * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
     * [Rotate](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
- * Debuger
  * Function
     * Function basic
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
@@ -136,7 +135,7 @@
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
     * Return
 
-### Week 7 -- Function / Clock
+### Week 7 -- Data Viz
  * [DIA](https://dia.tv/)
     * [KIKK Festival](https://www.youtube.com/watch?v=JVS-AO4yqA4)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
