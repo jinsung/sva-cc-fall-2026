@@ -114,12 +114,12 @@
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * Debuger
 
-### Week 6 -- Nested Loop / 2D Transformation
+### Week 6 -- 2D Transformation / Function
  * Zach Lieberman    
     * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
-    * [Ink Space](https://experiments.withgoogle.com/ink-space)
-    * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
-    * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
+    * [Daily Sketches](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
+    * [Audio in Space](https://www.youtube.com/watch?v=RPCB4GRJ9xc)
+    * [Insta](https://www.instagram.com/zach.lieberman/)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
  * curveVertex()[1](https://editor.p5js.org/jinsung/sketches/P7C3uePKh), [2](https://editor.p5js.org/jinsung/sketches/z6nWuK-u3)
@@ -127,23 +127,21 @@
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Translate / Rotate / Scale
     * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
-
-### Week 7 -- Function / Clock
- * [DIA](https://dia.tv/)
-    * [KIKK Festival](https://www.youtube.com/watch?v=JVS-AO4yqA4)
+    * [Rotate](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
+ * Debuger
  * Function
     * Function basic
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * Parameters
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
     * Return
+
+### Week 7 -- Function / Clock
+ * [DIA](https://dia.tv/)
+    * [KIKK Festival](https://www.youtube.com/watch?v=JVS-AO4yqA4)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
-
-### Week 8 -- Sound Viz
- * [Refik Anadol](https://refikanadol.com/)
- * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Sound Viz
    * Preload
    * Custom Shape
@@ -151,6 +149,11 @@
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
    * [FFT intro - class](https://editor.p5js.org/jinsung/sketches/URk8AX6vA)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
+
+### Week 8 -- Sound Viz
+ * [Refik Anadol](https://refikanadol.com/)
+ * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
+
  * Recursion
    * [Factorial](https://editor.p5js.org/jinsung/sketches/mKg6MmC4z)
    * [Tree](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
