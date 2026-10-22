@@ -136,8 +136,7 @@
     * Return
 
 ### Week 7 -- Data Viz
- * [DIA](https://dia.tv/)
-    * [KIKK Festival](https://www.youtube.com/watch?v=JVS-AO4yqA4)
+ * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
@@ -152,7 +151,6 @@
 
 ### Week 8 -- Sound Viz
  * [Refik Anadol](https://refikanadol.com/)
- * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
 
  * Recursion
    * [Factorial](https://editor.p5js.org/jinsung/sketches/mKg6MmC4z)
