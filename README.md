@@ -136,7 +136,8 @@
     * Return
 
 ### Week 7 -- Data Viz
- * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
+ * [What's Really Warming the World?](https://www.youtube.com/watch?v=E7kMr2OYKSU)
+   * [Article](bloomberg.com/graphics/2015-whats-warming-the-world/)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
@@ -151,7 +152,7 @@
 
 ### Week 8 -- Sound Viz
  * [Refik Anadol](https://refikanadol.com/)
-
+ * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Recursion
    * [Factorial](https://editor.p5js.org/jinsung/sketches/mKg6MmC4z)
    * [Tree](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
