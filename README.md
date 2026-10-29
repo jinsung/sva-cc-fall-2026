@@ -151,7 +151,7 @@
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
 
 ### Week 8 -- Function 2 / Object
- * [Refik Anadol](https://refikanadol.com/)
+ * [Daito Manabe](https://daito.ws/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Function
    * [Reusability](https://editor.p5js.org/jinsung/sketches/ATItJ2Q8p)
