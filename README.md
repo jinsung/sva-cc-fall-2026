@@ -150,12 +150,14 @@
    * [FFT intro - class](https://editor.p5js.org/jinsung/sketches/URk8AX6vA)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
 
-### Week 8 -- Recursion / Object
+### Week 8 -- Function 2 / Object
  * [Refik Anadol](https://refikanadol.com/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
- * Recursion
-   * [Factorial](https://editor.p5js.org/jinsung/sketches/mKg6MmC4z)
-   * [Tree](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
+ * Function
+   * [Reusability](https://editor.p5js.org/jinsung/sketches/ATItJ2Q8p)
+   * Recursion
+     * [Factorial](https://editor.p5js.org/jinsung/sketches/mKg6MmC4z)
+     * [Tree](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
    * contructor arguments
