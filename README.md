@@ -150,21 +150,20 @@
    * [FFT intro - class](https://editor.p5js.org/jinsung/sketches/URk8AX6vA)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
 
-### Week 8 -- Sound Viz
+### Week 8 -- Recursion / Object
  * [Refik Anadol](https://refikanadol.com/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Recursion
    * [Factorial](https://editor.p5js.org/jinsung/sketches/mKg6MmC4z)
    * [Tree](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
- * Midterm
-
-### Week 9 --  Object / Array
- * Midterm presentation
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
    * contructor arguments
    * keywords: new, this
    * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
+
+### Week 9 --  Object / Array
+ * Midterm presentation
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
    * Define and assign an array
