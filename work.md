@@ -10,6 +10,7 @@
 * [MT](https://editor.p5js.org/yubai/sketches/JLXZkUMeU)
 ### Kyla Camacho
 * [Homework #2](https://editor.p5js.org/kcamacho4/sketches/XsedyAH6c)
+* [MT](https://editor.p5js.org/kcamacho4/sketches/uiRtTE9dw)
 ### Steven Chen
 * [Homework #1](https://editor.p5js.org/schen146/sketches/dbZnjea3f)
 * [Homework #2](https://editor.p5js.org/schen146/sketches/c7TMMnx7X)
@@ -24,6 +25,8 @@
 ### Celine Fan
 * [Homework #1](https://editor.p5js.org/cfan11/sketches/eJMDOqvAV)
 * [Homework #2](https://editor.p5js.org/cfan11/sketches/-9v4Ti0Pb)
+* [MT](https://editor.p5js.org/cfan11/sketches/Lcsy2H8-H)
+* [MT - presentation](
 ### Hwijung Kim
 * [Homework #1](https://editor.p5js.org/hkim46/sketches/zQDT64tOJ)
 * [Homework #2](https://editor.p5js.org/hkim46/sketches/JkHGP3H5B)
