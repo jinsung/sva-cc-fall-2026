@@ -26,7 +26,7 @@
 * [Homework #1](https://editor.p5js.org/cfan11/sketches/eJMDOqvAV)
 * [Homework #2](https://editor.p5js.org/cfan11/sketches/-9v4Ti0Pb)
 * [MT](https://editor.p5js.org/cfan11/sketches/Lcsy2H8-H)
-* [MT - presentation](
+* [MT - presentation](https://www.figma.com/deck/WhrmlV1zcsLV1B8pmbChdC)
 ### Hwijung Kim
 * [Homework #1](https://editor.p5js.org/hkim46/sketches/zQDT64tOJ)
 * [Homework #2](https://editor.p5js.org/hkim46/sketches/JkHGP3H5B)
