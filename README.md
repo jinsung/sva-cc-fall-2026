@@ -173,12 +173,11 @@
    * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
 
 ### Week 10 -- Array / Image 
- * [ml5](https://ml5js.org/)
- * [Bodypose](https://docs.ml5js.org/#/reference/bodypose)
+ * An Evening With Lauren Hom
+ * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * Array
-   * [Snake](https://editor.p5js.org/jinsung/sketches/G7-QROTO6)
+   * [Add, Remove, and Event](https://editor.p5js.org/jinsung/sketches/tVTUGpsbQ)
    * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
-   * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
    * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
  * Image & Pixels
    * [image.png](https://assets.editor.p5js.org/57f190b64b5aa64a6b103ed4/078306ee-3993-4e53-9664-b46b4c3876d9.png)
@@ -203,7 +202,8 @@
    * [Vector in LLM](https://www.youtube.com/watch?v=wjZofJX0v4M&t=747s)
  
 ### Week 12 -- Pixels / Webcam
- * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
+ * [ml5](https://ml5js.org/)
+ * [Bodypose](https://docs.ml5js.org/#/reference/bodypose)
  * [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
